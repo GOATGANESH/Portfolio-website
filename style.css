@@ -381,6 +381,7 @@ flex-wrap: wrap;
    }
 
    .footer{
+    display:none;
     margin-top: 30%;
     flex-direction: column;
     width: 100%;
