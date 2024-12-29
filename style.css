@@ -378,12 +378,12 @@ flex-wrap: wrap;
        width: 70vw;
     }
    .content{
-    display: none;
+    display:initial;
     flex-direction: column;
    }
 
    .footer{
-    display:none;
+    
     margin-top: 30%;
     flex-direction: column;
     width: 100%;
